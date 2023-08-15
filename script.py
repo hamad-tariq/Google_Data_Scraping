@@ -49,7 +49,7 @@ for index, row in df.iterrows():
         # Update the lists with the extracted data
         job_titles.append(job_title)
         company_names.append(company_name)
-        linkedin_urls.append(linkedin_url)
+        linkedin_urls.append(first_result)
         names.append(name)
 
 # Create a DataFrame to display the extracted data
