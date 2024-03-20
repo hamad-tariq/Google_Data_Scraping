@@ -1,4 +1,4 @@
-# Google Data Scraping
+# Google Data Pipeline
 
 ## Problem Statement
 The client and his team have been manually searching and collecting data from google search results and feeding them to a spreadsheet for list building and then manually cleaning and verifying the results to be used for their campaigns and business decision making. This process hardly gives them 1000-1500 records per day that does not meet the needs of the client's business.
